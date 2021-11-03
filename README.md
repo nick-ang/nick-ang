@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [all in one productivity solutions such as my very own app called Saver](https://www.monosaver.com)
 
-- 🌱 I’m currently learning **Java, Kotlin, Spring, JavaScript, React, Next.js, Data Structures and Algorithms and Algorithms, Software and Testing**
+- 🌱 I’m currently learning **Java, Kotlin, Spring, JavaScript, React, Next.js, Data Structures and Algorithms, Software and Testing**
 
 - 📫 How to reach me **nicholas_ang@outlook.com**
 
