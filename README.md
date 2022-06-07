@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nick!</h1>
 <h3 align="center">A software developer from Australia</h3>
 
-- 🔭 I’m currently working as a Software Engineer at Afterpay and on [all in one productivity solutions such as my very own app called Saver](https://appsaver.space)
-
-- 🌱 I’m currently learning **Java, Kotlin, Spring, React, AWS, Data Structures and Algorithms, Test Driven Development**
-
 - 📫 How to reach me **nicholas_ang@outlook.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nick-ang&show_icons=true&locale=en" alt="nick-ang" /></p>
