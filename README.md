@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **nicholas_ang@outlook.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nick-ang&show_icons=true&locale=en" alt="nick-ang" /></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nick-c-ang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nick-c-ang/" height="30" width="40" /></a>
